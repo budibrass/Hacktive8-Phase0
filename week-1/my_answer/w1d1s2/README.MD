@@ -1,6 +1,5 @@
 # Membuat Halaman HTML Sederhana
 
-<!-- ## Objectives -->
 - index.html
 ```JavaScript
 <!DOCTYPE html>

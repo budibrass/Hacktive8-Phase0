@@ -17,13 +17,17 @@
     - CSS
   - Challenge(s):
     - :anchor: [Codecademy Course - CSS (hanya sampai Unit 5 - Typography)](https://www.codecademy.com/learn/learn-css)
+  - Answer:
+    - [Codecademy Course - CSS (hanya sampai Unit 5 - Typography)](./my_answer/picture/Learn_CSS_Codecademy.png)
 - ### Session 2
   - Lecture:
     - Basic Command Line Unix
   - Challenge(s):
     - :anchor: [Menghias HTML dengan CSS](/week-1/challenges/anchor-css-selector-and-styling.md)
     - :rocket: [Membuat Layout dan Desain Halaman Web dengan CSS](/week-1/challenges/rocket-css-layouting.md)
-- ### [Click disini untuk mengumpulkan challenge W1D2](https://airtable.com/shrlcmgELh3w7h6bF)
+  - Answer:
+    - [Menghias HTML dengan CSS](./my_answer/w1d2s2/anchor)
+    - [Membuat Layout dan Desain Halaman Web dengan CSS](./my_answer/w1d2s2/rocket)
 
 ## Wednesday
 - ### Session 1 & 2
