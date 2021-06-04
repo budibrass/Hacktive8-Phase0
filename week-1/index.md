@@ -1,22 +1,3 @@
-
-Selamat datang di tahap persiapan sesungguhnya bootcamp Hacktiv8, yaitu Phase 0! Phase 0 ini merupakan pembelajaran yang bersifat matrikulasi atau kalibrasi yang lebih intens. Phase 0 juga menjadi penentu apakah kamu dapat maju ke Phase 1. Kita harap bersama agar kamu antusias untuk meningkatkan pengetahuan dasarmu!
-
-**Bagaimana Phase 0 ini akan berjalan?**
-
-Dalam tahap ini kamu akan belajar dasar-dasar pemograman. Kamu akan belajar setiap hari bersama teman-teman kamu.
-Untuk seluruh diskusi pembelajaran inti dari awal persiapan hingga berakhirnya bootcamp, kita akan menggunakan grup [Slack](https://slack.com/).
-
-Panduan:
-- :notebook_with_decorative_cover: **Reference** adalah bacaan sebagai referensi pembelajaran kamu. Di dalam beberapa bacaan, ada direction yang memintamu membuat sesuatu. Direction itu lebih bersifat opsional untuk membantu kamu saja.
-- :anchor: **Anchor** adalah tugas atau tantangan yang wajib kamu kerjakan dan kumpulkan.
-- 💪 **Self Training** adalah tugas atau tantangan opsional yang walaupun tidak dikumpulkan, bila kamu selesaikan dengan baik, pembelajarannya maksimal! 😎
-- :rocket: **Rocket** adalah tantangan opsional yang menguji kehebatanmu sebagai calon developer masa depan
-- :books: **Optional Reference** adalah bacaan sebagai referensi tambahan yang akan memperkaya pengetahuanmu
-
-**Pengumpulan Tugas dan Sistem Feedback**
-
-Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari selanjutnya.
-
 ## Monday
 - ### Session 1
   - Welcome to Phase 0 and Briefing
@@ -26,7 +7,9 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
   - Challenge(s):
     - :anchor: [Codecademy Course - HTML](https://www.codecademy.com/learn/learn-html)
     - :rocket: [Membuat Halaman HTML Sederhana](/week-1/challenges/rocket-laman-web-pertamaku.md)
-- ### [Click disini untuk mengumpulkan challenge W1D1](https://airtable.com/shrVWuwKPZys8TjR5)
+  - Answer
+    - [Codecademy Course - HTML](./my_answer/picture/Budi-Santoso.png)
+    - [Membuat Halaman HTML Sederhana](./my_answer/w1d1s2/)
 
 ## Tuesday
 - ### Session 1
