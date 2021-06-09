@@ -50,9 +50,8 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
   - Review Live Code
 - Challenge(s):
   - :rocket: [Shape Of I](/week-2/challenges/rocket-shape-of-i.md)
-  - :rocket: [Interesting Ladder](/week-2/challenges/rocket-interesting-ladder.md)
-  
-- ### [Click disini untuk mengumpulkan challenge Rocket](https://airtable.com/shriz6huNhn6sEc19)
+- My Answer:
+  - [Shape Of I](./my_answer/w2d3/rocket/)
 
 ## Thursday
 - ### Session 1
