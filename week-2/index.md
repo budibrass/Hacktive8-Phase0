@@ -21,10 +21,10 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
     - :anchor: [XO](/week-2/challenges/anchor-xo.md)
     - :rocket: [Triangle](/week-2/challenges/rocket-triangle.md)
   - Challenge(s):
-    - [Bandingkan Angka](./my_answer/anchor)
-    - [Konversi Menit](./my_answer/anchor)
-    - [XO](./my_answer/anchor)
-    - [Triangle](./my_answer/rocket)
+    - [Bandingkan Angka](./my_answer/w2d1s1/anchor)
+    - [Konversi Menit](./my_answer/w2d1s1/anchor)
+    - [XO](./my_answer/w2d1s1/anchor)
+    - [Triangle](./my_answer/w2d1s1/rocket)
 
 ## Tuesday
 - ### Session 1 & 2
