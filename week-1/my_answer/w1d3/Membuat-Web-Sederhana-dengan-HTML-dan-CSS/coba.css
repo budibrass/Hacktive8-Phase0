@@ -1,0 +1,33 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+nav {
+    background-color: black;
+    height:50px;
+    width:100%;
+
+}
+
+nav a {
+    font-size: 20px;
+    color: white;
+    float: right;
+    margin:0 ;
+    padding: 5px;
+  
+}
+
+nav a:hover{
+    color:#43A047;
+}
+
+.header {
+    background-color:#d9ddde;
+    display: flex;
+    flex-direction:column;
+    height:100px;
+    align-items:center;
+    justify-content:center;
+}

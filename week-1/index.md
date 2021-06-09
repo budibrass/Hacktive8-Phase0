@@ -7,7 +7,7 @@
   - Challenge(s):
     - :anchor: [Codecademy Course - HTML](https://www.codecademy.com/learn/learn-html)
     - :rocket: [Membuat Halaman HTML Sederhana](/week-1/challenges/rocket-laman-web-pertamaku.md)
-  - Answer
+  - My Answer
     - [Codecademy Course - HTML](./my_answer/picture/Budi-Santoso.png)
     - [Membuat Halaman HTML Sederhana](./my_answer/w1d1s2/)
 
@@ -17,7 +17,7 @@
     - CSS
   - Challenge(s):
     - :anchor: [Codecademy Course - CSS (hanya sampai Unit 5 - Typography)](https://www.codecademy.com/learn/learn-css)
-  - Answer:
+  - My Answer:
     - [Codecademy Course - CSS (hanya sampai Unit 5 - Typography)](./my_answer/picture/Learn_CSS_Codecademy.png)
 - ### Session 2
   - Lecture:
@@ -25,7 +25,7 @@
   - Challenge(s):
     - :anchor: [Menghias HTML dengan CSS](/week-1/challenges/anchor-css-selector-and-styling.md)
     - :rocket: [Membuat Layout dan Desain Halaman Web dengan CSS](/week-1/challenges/rocket-css-layouting.md)
-  - Answer:
+  - My Answer:
     - [Menghias HTML dengan CSS](./my_answer/w1d2s2/anchor)
     - [Membuat Layout dan Desain Halaman Web dengan CSS](./my_answer/w1d2s2/rocket)
 
@@ -35,7 +35,8 @@
     - Review HTML and CSS
   - Challenge:
     - :anchor: [Membuat Web Sederhana dengan HTML dan CSS](/week-1/challenges/anchor-web-sederhana.md)
-- ### [Click disini untuk mengumpulkan challenge W1D3](https://airtable.com/shrVrybFeKYD5Q6c7)
+  - My Answer:
+    - [Membuat Web Sederhana dengan HTML dan CSS](/week-1/challenges/anchor-web-sederhana.md)
 
 ## Thursday
 - ### Session 1
