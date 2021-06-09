@@ -63,8 +63,8 @@
     - :notebook_with_decorative_cover: [Understanding String in Javascript](/week-1/references/js-string-reference.md)
   - My Answer:
     - [Codecademy - Javascript Introduction and Conditional](./my_answer/picture/Learn_JavaScript_Codecademy.png)
-    - [Grade Students](./my_answer/w1d4s2/readme.md)
-    - [Graduates](./my_answer/w1d4s2/readme.md)
+    - [Grade Students](./my_answer/w1d4s2)
+    - [Graduates](./my_answer/w1d4s2)
 
 ## Friday
 - ### Session 1
@@ -78,9 +78,9 @@
     - :notebook_with_decorative_cover: [Conditional Switch Case](/week-1/references/js-first-time-switch-case.md)
     - :notebook_with_decorative_cover: [Built in Function Math](/week-1/references/math.md)
   - My Answer:
-    - [Play with String](./my_answer/w1d5s1/readme.md)
-    - [Cafe Visitation](./my_answer/w1d5s1/readme.md)
-    - [Gatcha](./my_answer/w1d5s1/readme.md)
+    - [Play with String](./my_answer/w1d5s1)
+    - [Cafe Visitation](./my_answer/w1d5s1)
+    - [Gatcha](./my_answer/w1d5s1)
 
 - ### Session 2
   - Lecture:
@@ -93,15 +93,15 @@
     - :notebook_with_decorative_cover: [Algoritma & Pseudocode Iteration](/week-1/references/algoritma-loop.md)
     - :notebook_with_decorative_cover: [Iteration](/week-1/references/js-first-time-loop.md)
   - My Answer
-    - [Laundry Day](./my_answer/w1d5s2/readme.md)
-    - [I Love Coding](./my_answer/w1d5s2/readme.md)
-    - [Odd and Even Numbers](./my_answer/w1d5s2/readme.md)
+    - [Laundry Day](./my_answer/w1d5s2)
+    - [I Love Coding](./my_answer/w1d5s2)
+    - [Odd and Even Numbers](./my_answer/w1d5s2)
 
 ## Weekend (Homework)
   - :anchor:[Pasangan Angka Terbesar](/week-1/challenges/anchor-pasangan-angka-terbesar.md)
   - :anchor:[Ubah Huruf](/week-1/challenges/anchor-ubah-huruf.md)
 
 - My Answer
-  - [Pasangan Angka Terbesar](./my_answer/HW/readme.md)
-  - [Ubah Huruf](./my_answer/HW/readme.md)
+  - [Pasangan Angka Terbesar](./my_answer/HW)
+  - [Ubah Huruf](./my_answer/HW)
 
