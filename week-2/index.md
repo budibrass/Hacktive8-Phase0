@@ -37,8 +37,11 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
     - :anchor: [Palindrome Angka](/week-2/challenges/anchor-palindrome-angka.md)
   - Reference(s):
     - :notebook_with_decorative_cover: [ES6 - const, let, var, template literals](/week-2/references/es6.md)
-
-- ### [Click disini untuk mengumpulkan challenge W2D2](https://airtable.com/shrzSL4X8vtcj4U0j)
+  - My Answer:
+    - [Data Type Challenge](./my_answer/w2d2)
+    - [Hitung Jumlah Kata](./my_answer/w2d2)
+    - [Palindrome](./my_answer/w2d2)
+    - [Palindrome Angka](./my_answer/w2d2)
 
 ## Wednesday
 - ### Session 1
