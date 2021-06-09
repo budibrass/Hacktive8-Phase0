@@ -101,4 +101,7 @@
   - :anchor:[Pasangan Angka Terbesar](/week-1/challenges/anchor-pasangan-angka-terbesar.md)
   - :anchor:[Ubah Huruf](/week-1/challenges/anchor-ubah-huruf.md)
 
-  - ### [Click disini untuk mengumpulkan Homework](https://airtable.com/shrLOT7OVWNkM5thv)
+- My Answer
+  - [Pasangan Angka Terbesar](./my_answer/HW/readme.md)
+  - [Ubah Huruf](./my_answer/HW/readme.md)
+
