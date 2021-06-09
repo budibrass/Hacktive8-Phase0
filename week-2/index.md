@@ -23,8 +23,8 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
   - Challenge(s):
     - [Bandingkan Angka](./my_answer/w2d1s1/anchor)
     - [Konversi Menit](./my_answer/w2d1s1/anchor)
-    - [XO](./my_answer/w2d1s1/anchor)
-    - [Triangle](./my_answer/w2d1s1/rocket)
+    - [XO](./my_answer/w2d1s2/anchor)
+    - [Triangle](./my_answer/w2d1s2/rocket)
 
 ## Tuesday
 - ### Session 1 & 2
