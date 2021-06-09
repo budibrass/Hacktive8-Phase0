@@ -9,6 +9,9 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
   - Challenge(s):
     - :anchor: [Asterisks](/week-2/challenges/anchor-asterisk.md)
     - :anchor: [Balik Kata](/week-2/challenges/anchor-balik-kata.md)
+  - My Answer:
+    - [Asterisks](./my_answer/w2d1s1)
+    - [Balik Kata](./my_answer/w2d1s1)
 - ### Session 2
   - Lecture:
     - Review Loop and Nested Loop (optional)
@@ -17,7 +20,11 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
     - :anchor: [Konversi Menit](/week-2/challenges/anchor-konversi-menit.md)
     - :anchor: [XO](/week-2/challenges/anchor-xo.md)
     - :rocket: [Triangle](/week-2/challenges/rocket-triangle.md)
-- ### [Click disini untuk mengumpulkan challenge W2D1](https://airtable.com/shrAXgynjoZ2No4Op)
+  - Challenge(s):
+    - [Bandingkan Angka](./my_answer/anchor)
+    - [Konversi Menit](./my_answer/anchor)
+    - [XO](./my_answer/anchor)
+    - [Triangle](./my_answer/rocket)
 
 ## Tuesday
 - ### Session 1 & 2
