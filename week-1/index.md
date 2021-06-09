@@ -62,9 +62,9 @@
     - :notebook_with_decorative_cover: [Conditional and Primitive Data Type](/week-1/references/js-first-time.md)
     - :notebook_with_decorative_cover: [Understanding String in Javascript](/week-1/references/js-string-reference.md)
   - My Answer:
-    - [Codecademy - Javascript Introduction and Conditional](./my_asnwer/picture/Learn_JavaScript_Codecademy.png)
-    - [Grade Students](/week-1/challenges/anchor-grade-students.md)
-    - [Graduates](/week-1/challenges/anchor-graduates.md)
+    - [Codecademy - Javascript Introduction and Conditional](./my_answer/w1d4s2/Learn_JavaScript_Codecademy.png)
+    - [Grade Students](./my_answer/w1d4s2/readme.md)
+    - [Graduates](./my_answer/w1d4s2/readme.md)
 
  - ### [Click disini untuk mengumpulkan challenge W1D4](https://airtable.com/shr7zDfI34a5pW6QY)
 
