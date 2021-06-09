@@ -5,7 +5,9 @@ Full-Stack JavaScript Development Course di HACKTIV8. Repositori ini digunakan s
 
 Materi di bagi ke dalam empat minggu, yang tiap minggu nya terdiri dari berbagai fokus materi.
 
+```JavaScript
 Dan disini saya mencoba untuk share coding saya dari setiap challange, bukan bertujuan untuk memberikan contekan pada orang lain, tapi ini lebih bersifat ke sharing code saja. Karena setiap programmer tentunya mempunya algoritma yang berbeda - beda.
+```
 
 ### [Week 1](./week-1/index.md)
 ### [Week 2](./week-2/index.md)

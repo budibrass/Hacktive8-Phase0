@@ -36,7 +36,7 @@ ALGORITMA
 
 - Pseudocode
 ```JavaScript
-ALGORITMA
+PSEUDOCODE
 1. SET nama to 'Budi'
 2. SET nilai to 95
 3. SET absen to 1
