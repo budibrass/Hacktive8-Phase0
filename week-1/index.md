@@ -66,8 +66,6 @@
     - [Grade Students](./my_answer/w1d4s2/readme.md)
     - [Graduates](./my_answer/w1d4s2/readme.md)
 
- - ### [Click disini untuk mengumpulkan challenge W1D4](https://airtable.com/shr7zDfI34a5pW6QY)
-
 ## Friday
 - ### Session 1
   - Lecture:
@@ -79,6 +77,10 @@
   - Reference(s):
     - :notebook_with_decorative_cover: [Conditional Switch Case](/week-1/references/js-first-time-switch-case.md)
     - :notebook_with_decorative_cover: [Built in Function Math](/week-1/references/math.md)
+  - My Answer:
+    - [Play with String](./my_answer/w1d5s1/readme.md)
+    - [Cafe Visitation](./my_answer/w1d5s1/readme.md)
+    - [Gatcha](./my_answer/w1d5s1/readme.md)
 
 - ### Session 2
   - Lecture:
@@ -90,8 +92,10 @@
   - Reference(s):
     - :notebook_with_decorative_cover: [Algoritma & Pseudocode Iteration](/week-1/references/algoritma-loop.md)
     - :notebook_with_decorative_cover: [Iteration](/week-1/references/js-first-time-loop.md)
-
- - ### [Click disini untuk mengumpulkan challenge W1D5](https://airtable.com/shryHhnM519GtVUYs)
+  - My Answer
+    - [Laundry Day](./my_answer/w1d5s2/readme.md)
+    - [I Love Coding](./my_answer/w1d5s2/readme.md)
+    - [Odd and Even Numbers](./my_answer/w1d5s2/readme.md)
 
 ## Weekend (Homework)
   - :anchor:[Pasangan Angka Terbesar](/week-1/challenges/anchor-pasangan-angka-terbesar.md)
