@@ -36,7 +36,7 @@
   - Challenge:
     - :anchor: [Membuat Web Sederhana dengan HTML dan CSS](/week-1/challenges/anchor-web-sederhana.md)
   - My Answer:
-    - [Membuat Web Sederhana dengan HTML dan CSS](/week-1/challenges/anchor-web-sederhana.md)
+    - [Membuat Web Sederhana dengan HTML dan CSS](./my_answer/wid3/Membuat-Web-Sederhana-dengan-HTML-dan-CSS)
 
 ## Thursday
 - ### Session 1
