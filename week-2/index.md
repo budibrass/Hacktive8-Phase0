@@ -62,6 +62,9 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
     - :anchor: [Shout Out](/week-2/challenges/anchor-basic-functions.md)
   - Reference(s):
     - :notebook_with_decorative_cover: [Function](/week-2/references/js-first-time-function.md)
+  - My Answer:
+    - [Codecademy JavaScript - Functions (Only 1 - 6)](./my_answer/picture/function.png)
+    - [Shout Out](./my_answer/w2d4s1)
 
 - ### Session 2
   - Lecture:
@@ -71,8 +74,9 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
     - :anchor: [Built in Function Challenges](/week-2/challenges/anchor-array.md)
   - Reference(s):
     - :notebook_with_decorative_cover: [Array](/week-2/references/js-array.md)
-
- - ### [Click disini untuk mengumpulkan challenge W2D4](https://airtable.com/shrRQH2ewf8k7qbiH)
+  - My Answer:
+    - [Codecademy JavaScript - Array (Only 1-10)](./my_answer/picture/array.png)
+    - [Built in Function Challenges](./my_answer/w2d4s2/)
 
 ## Friday
 - ### Session 1
