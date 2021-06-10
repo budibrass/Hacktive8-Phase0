@@ -50,6 +50,7 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
   - Review Live Code
 - Challenge(s):
   - :rocket: [Shape Of I](/week-2/challenges/rocket-shape-of-i.md)
+  - :rocket: [Interesting Ladder](/week-2/challenges/rocket-interesting-ladder.md)
 - My Answer:
   - [Shape Of I](./my_answer/w2d3/rocket/)
 
@@ -87,6 +88,9 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
     - :anchor: [Interesting Ladder - Array Multidimensi](/week-2/challenges/anchor-ladder-array.md)
   - Reference(s):
     - :notebook_with_decorative_cover: [Multidimensional Array](/week-2/references/js-multidimensional-array.md)
+  - My Answer:
+    - [Slice](/week-2/challenges/anchor-slice.md)
+    - [Interesting Ladder - Array Multidimensi](/week-2/challenges/anchor-ladder-array.md)
 
 - ### Session 2
   - Lecture:
