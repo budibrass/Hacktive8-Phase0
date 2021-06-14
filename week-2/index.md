@@ -98,7 +98,7 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
   - Challenge(s):
     - :anchor: [Vocal Seeker](/week-2/challenges/anchor-seeker.md)
     - :anchor: [Sitting Arrangement](/week-2/challenges/anchor-sitting-arrangement.md)
-  My Answer:
+  - My Answer:
     - [Vocal Seeker](./my_answer/w2d5s2/readme.md)
     - [Sitting Arrangement](./my_answer/w2d5s2/readme.md)
 
