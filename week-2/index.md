@@ -89,8 +89,8 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
   - Reference(s):
     - :notebook_with_decorative_cover: [Multidimensional Array](/week-2/references/js-multidimensional-array.md)
   - My Answer:
-    - [Slice](/week-2/challenges/anchor-slice.md)
-    - [Interesting Ladder - Array Multidimensi](/week-2/challenges/anchor-ladder-array.md)
+    - [Slice](./my_answer/w2d5s1)
+    - [Interesting Ladder - Array Multidimensi](./my_answer/w2d5s1)
 
 - ### Session 2
   - Lecture:
@@ -99,8 +99,8 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
     - :anchor: [Vocal Seeker](/week-2/challenges/anchor-seeker.md)
     - :anchor: [Sitting Arrangement](/week-2/challenges/anchor-sitting-arrangement.md)
   - My Answer:
-    - [Vocal Seeker](./my_answer/w2d5s2/readme.md)
-    - [Sitting Arrangement](./my_answer/w2d5s2/readme.md)
+    - [Vocal Seeker](./my_answer/w2d5s2)
+    - [Sitting Arrangement](./my_answer/w2d5s2)
 
 ## Weekend (Homework)
 - :anchor: [Urutkan Abjad](/week-2/challenges/anchor-urutkan-abjad.md)
