@@ -10,6 +10,10 @@ Pekan ketiga ini kita akan melatih lebih kemampuan logika kamu. Dan dipekan ini 
     - :anchor: [Deret Geometri](/week-3/challenges/anchor-deret-geometri.md)
     - :anchor: [Target Terdekat](/week-3/challenges/anchor-target-terdekat.md)
     - :anchor: [Mengelompokkan Angka](/week-3/challenges/anchor-mengelopokkan-angka.md)
+  - My Answer:
+    - [Deret Geometri](./my_answer/w3d1s1)
+    - [Target Terdekat](./my_answer/w3d1s1)
+    - [Mengelompokkan Angka](./my_answer/w3d1s1)
 - ### Session 2
   - Lecture:
     - Modular Function
@@ -18,7 +22,9 @@ Pekan ketiga ini kita akan melatih lebih kemampuan logika kamu. Dan dipekan ini 
     - :anchor: [Password Generator](https://github.com/hacktiv8/phase-0-activities-4-weeks/blob/master/week-3/challenges/anchor-password-generator.md)
   - Reference(s):
     - :notebook_with_decorative_cover: [Functions](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-functions)
-- ### [Click disini untuk mengumpulkan challenge W3D1](https://airtable.com/shrHovreCRKU3gnIl)
+  - My Answer:
+    - [Tabel Perkalian]()
+    - [Password Generator]()
 
 ## Tuesday
 - ### Session 1 & 2
