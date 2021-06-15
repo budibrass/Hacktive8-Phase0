@@ -105,9 +105,7 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
 ## Weekend (Homework)
 - :anchor: [Urutkan Abjad](/week-2/challenges/anchor-urutkan-abjad.md)
 - :anchor: [Tukar Ukuran](/week-2/challenges/anchor-tukar-ukuran.md)
-- :anchor: [Sorting!](/week-2/challenges/anchor-sorting.md)
 
 - My Answer
-  - :anchor: [Urutkan Abjad](/week-2/challenges/anchor-urutkan-abjad.md)
-  - :anchor: [Tukar Ukuran](/week-2/challenges/anchor-tukar-ukuran.md)
-  - :anchor: [Sorting!](/week-2/challenges/anchor-sorting.md)
+  - [Urutkan Abjad](./my_answer/HW)
+  - [Tukar Ukuran](./my_answer/HW)
