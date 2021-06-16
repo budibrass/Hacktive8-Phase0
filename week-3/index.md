@@ -23,8 +23,7 @@ Pekan ketiga ini kita akan melatih lebih kemampuan logika kamu. Dan dipekan ini 
   - Reference(s):
     - :notebook_with_decorative_cover: [Functions](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-functions)
   - My Answer:
-    - [Tabel Perkalian]()
-    - [Password Generator]()
+    - [Password Generator](./my_answer/w3d1s2)
 
 ## Tuesday
 - ### Session 1 & 2
