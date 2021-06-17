@@ -34,8 +34,13 @@ Pekan ketiga ini kita akan melatih lebih kemampuan logika kamu. Dan dipekan ini 
     - :anchor: [Most Frequent Largest Numbers](/week-3/challenges/anchor-most-frequent-largest-numbers.md)
     - :anchor: [Melee Ranged](/week-3/challenges/anchor-melee-ranged.md)
     - :anchor: [Damage Calculation](/week-3/challenges/anchor-damage-calculation.md)
+  - My Answer:
+    - [Deep Sum](./my_answer/w3d2)
+    - [Most Frequent Largest Numbers](./my_answer/w3d2)
+    - [Melee Ranged](./my_answer/w3d2)
+    - [Damage Calculation](./my_answer/w3d2)
 
-- ### [Click disini untuk mengumpulkan challenge W3D2](https://airtable.com/shrye271Ox4xjeBGV)
+
 
 ## Wednesday
 - ### Session 1

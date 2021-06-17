@@ -49,25 +49,16 @@ function setLowerUpperCase (str)
     var lowAbc = "abcdefghijklmnopqrstuvwxyz";
     var processedStr2 = "";
   
-    for (var i = 0; i < str.length; i++) 
-    {
+    for (var i = 0; i < str.length; i++) {
       var inspector3 = str[i];
-      if (upAbc.indexOf(inspector3) !== -1) 
-      {
+
+      if (upAbc.indexOf(inspector3) !== -1) {
         processedStr2 += inspector3.toLowerCase();
-        // console.log(processedStr2);
-      }
-  
-      else if (lowAbc.indexOf(inspector3) !== -1) 
-      {
+      } else if (lowAbc.indexOf(inspector3) !== -1) {
         processedStr2 += inspector3.toUpperCase();
-        // console.log(processedStr2);
-      }
-      else 
-      {
+      } else {
         processedStr2 += inspector3;
       }
-  
     }
     return processedStr2;
   }
@@ -76,21 +67,16 @@ function setLowerUpperCase (str)
   {
     var processedStr3 = "";
   
-    for (var i = 0; i < str.length; i++) 
-    {
+    for (var i = 0; i < str.length; i++) {
       var inspector4 = str[i];
-      if (inspector4 === " ") 
-      {
+
+      if (inspector4 === " ") {
         processedStr3 += "";
-      } 
-      else 
-      {
+      } else {
         processedStr3 += inspector4
       }
     }
-  
-    return processedStr3;
-  
+  return processedStr3;
   }
   
   function passwordGenerator (name) 
@@ -100,12 +86,9 @@ function setLowerUpperCase (str)
     var settedCase = setLowerUpperCase(reversedWord);
     var goodbyeSpaces = removeSpaces(settedCase);
   
-    if (goodbyeSpaces.length >= 5) 
-    {
+    if (goodbyeSpaces.length >= 5) {
       return goodbyeSpaces;
-    }
-    else 
-    {
+    } else {
       return "Minimal karakter yang diinputkan adalah 5 karakter";
     }
   }
