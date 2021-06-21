@@ -18,7 +18,6 @@ Pekan ketiga ini kita akan melatih lebih kemampuan logika kamu. Dan dipekan ini 
   - Lecture:
     - Modular Function
   - Challenge(s):
-    - :anchor: [Tabel Perkalian](/week-3/challenges/anchor-tabel-perkalian.md)
     - :anchor: [Password Generator](https://github.com/hacktiv8/phase-0-activities-4-weeks/blob/master/week-3/challenges/anchor-password-generator.md)
   - Reference(s):
     - :notebook_with_decorative_cover: [Functions](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-functions)
@@ -48,17 +47,19 @@ Pekan ketiga ini kita akan melatih lebih kemampuan logika kamu. Dan dipekan ini 
     - Object Literals
   - Challenge(s):
     - :anchor: [Change Me](/week-3/challenges/anchor-change-me.md)
-    - :anchor: [Count Me](/week-3/challenges/anchor-count-me.md)
   - Reference(s):
     - :notebook_with_decorative_cover: [Object Literals](/week-3/references/object-literal.md)
+  - My Answer:
+    - [Change Me](./my_answer/w3d3s1)
 - ### Session 2
   - Lecture:
     - Array of Object
   - Challenge(s):
     - :anchor: [Highest Score](/week-3/challenges/anchor-highest-score.md)
     - :anchor: [Graduates](/week-3/challenges/anchor-graduates-object.md)
-
-- ### [Click disini untuk mengumpulkan challenge W3D3](https://airtable.com/shrjDLvchMdnUTXVk)
+  - My Answer:
+    - [Highest Score](./my_answer/w3d3s2)
+    - [Graduates](./my_answer/w3d3s2)
 
 ## Thursday
 - ### Session 1 & 2
