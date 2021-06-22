@@ -15,10 +15,10 @@ Di
     - :anchor: [Cari Modus](/week-4/challenges/anchor-cari-modus.md)
     - :rocket: [Mengelompokkan Hewan](/week-4/challenges/rocket-mengelompokkan-hewan.md)
   - My Answer:
-    - [Angka Prima](./my_answer/w24d1/anchor)
-    - [Cari Median](./my_answer/w24d1/anchor)
-    - [Cari Modus](./my_answer/w24d1/anchor)
-    - [Mengelompokkan Hewan](./my_answer/w24d1/rocket)
+    - [Angka Prima](./my_answer/w4d1/anchor)
+    - [Cari Median](./my_answer/w4d1/anchor)
+    - [Cari Modus](./my_answer/w4d1/anchor)
+    - [Mengelompokkan Hewan](./my_answer/w4d1/rocket)
 
 ## Tuesday
 - ### Session 1 & 2
