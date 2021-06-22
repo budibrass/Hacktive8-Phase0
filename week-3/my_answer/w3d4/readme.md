@@ -79,8 +79,6 @@ function countProfit(shoppers) {
 			});
 		}
 
-		console.log(data, `<<<<<, data 1`);
-
 		for (var person of shoppers) {
 			for (var i = 0; i < data.length; i++) {
 				if ( data[i].product === person.product && data[i].leftOver >= person.amount ) {
