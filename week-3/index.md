@@ -67,9 +67,9 @@ Pekan ketiga ini kita akan melatih lebih kemampuan logika kamu. Dan dipekan ini 
   - Challenge(s):
     - :anchor: [Shopping Time](/week-3/challenges/anchor-shopping-time.md)
     - :anchor: [Toko X](/week-3/challenges/anchor-tokoX.md)
-
-
-- ### [Click disini untuk mengumpulkan challenge W3D3](https://airtable.com/shrveJr2DUMCB4nGT)
+  - My Answer:
+    - [Shopping Time](./my_answer/w3d4)
+    - [Toko X](./my_answer/w3d4)
 
 ## Friday
 - ### Session 1
